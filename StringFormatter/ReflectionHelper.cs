@@ -12,6 +12,7 @@ namespace StringFormatter
 {
     internal class ReflectionHelper
     {
+
         private class PropertyGetterKey
         {
             internal Type Type { get; set; }
