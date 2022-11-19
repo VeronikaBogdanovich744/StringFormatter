@@ -1,4 +1,5 @@
 # StringFormatter
+https://bsuir.ishimko.me/mpp-dotnet/5-string-formatter
 Необходимо реализовать класс StringFormatter с единственным методом Format, который должен выполнять упрощённую "интерполяцию строк".
 public interface IStringFormatter
 {
